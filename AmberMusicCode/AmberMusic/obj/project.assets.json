@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kennaschneider/Documents/WinsorCalendar/AmberMusic/AmberMusic/AmberMusic.csproj",
+      "projectUniqueName": "/Users/kennaschneider/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj",
       "projectName": "AmberMusic",
-      "projectPath": "/Users/kennaschneider/Documents/WinsorCalendar/AmberMusic/AmberMusic/AmberMusic.csproj",
+      "projectPath": "/Users/kennaschneider/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj",
       "packagesPath": "/Users/kennaschneider/.nuget/packages/",
-      "outputPath": "/Users/kennaschneider/Documents/WinsorCalendar/AmberMusic/AmberMusic/obj/",
+      "outputPath": "/Users/kennaschneider/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kennaschneider/.nuget/NuGet/NuGet.Config"

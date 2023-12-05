@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AmberMusic
-build_property.ProjectDir = /Users/kennaschneider/Documents/WinsorCalendar/AmberMusic/AmberMusic/
+build_property.ProjectDir = /Users/kennaschneider/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/
