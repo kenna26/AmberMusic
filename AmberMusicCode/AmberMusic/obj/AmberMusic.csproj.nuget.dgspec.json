@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/Users/amberrenthal/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj": {}
+    "/Users/kennaschneider/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj": {}
   },
   "projects": {
-    "/Users/amberrenthal/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj": {
+    "/Users/kennaschneider/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/amberrenthal/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj",
+        "projectUniqueName": "/Users/kennaschneider/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj",
         "projectName": "AmberMusic",
-        "projectPath": "/Users/amberrenthal/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj",
-        "packagesPath": "/Users/amberrenthal/.nuget/packages/",
-        "outputPath": "/Users/amberrenthal/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/obj/",
+        "projectPath": "/Users/kennaschneider/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj",
+        "packagesPath": "/Users/kennaschneider/.nuget/packages/",
+        "outputPath": "/Users/kennaschneider/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/amberrenthal/.nuget/NuGet/NuGet.Config"
+          "/Users/kennaschneider/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,6 +38,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/amberrenthal/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
