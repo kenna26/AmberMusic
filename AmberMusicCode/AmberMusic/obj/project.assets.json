@@ -8,25 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/kennaschneider/.nuget/packages/": {}
+    "/Users/amberrenthal/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kennaschneider/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj",
+      "projectUniqueName": "/Users/amberrenthal/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj",
       "projectName": "AmberMusic",
-      "projectPath": "/Users/kennaschneider/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj",
-      "packagesPath": "/Users/kennaschneider/.nuget/packages/",
-      "outputPath": "/Users/kennaschneider/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/obj/",
+      "projectPath": "/Users/amberrenthal/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj",
+      "packagesPath": "/Users/amberrenthal/.nuget/packages/",
+      "outputPath": "/Users/amberrenthal/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kennaschneider/.nuget/NuGet/NuGet.Config"
+        "/Users/amberrenthal/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/amberrenthal/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
