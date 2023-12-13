@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5g2xI8TNcS56BqPgu0T/hJAAL1aV6+4rcE6wEb0JrVfcmTCxbIzG0L3699sZzVwNcUCHu1dln/a0mTM3+R4CMA==",
+  "success": true,
+  "projectFilePath": "/Users/kennaschneider/Documents/GitHub/AmberMusic/AmberMusicCode/AmberMusic/AmberMusic.csproj",
+  "expectedPackageFiles": [
+    "/Users/kennaschneider/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
