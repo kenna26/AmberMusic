@@ -4,7 +4,19 @@
     <projectFile>AmberMusic/AmberMusic.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="723398d7-4434-4f54-a640-923ffc0b7621" name="Changes" comment="" />
+    <list default="true" id="723398d7-4434-4f54-a640-923ffc0b7621" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AmberMusic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AmberMusic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmberMusic/obj/AmberMusic.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmberMusic/obj/AmberMusic.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmberMusic/obj/AmberMusic.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/AmberMusic/obj/AmberMusic.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmberMusic/obj/Debug/net7.0/AmberMusic.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/AmberMusic/obj/Debug/net7.0/AmberMusic.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmberMusic/obj/Debug/net7.0/AmberMusic.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmberMusic/obj/Debug/net7.0/AmberMusic.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmberMusic/obj/Debug/net7.0/AmberMusic.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmberMusic/obj/Debug/net7.0/AmberMusic.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmberMusic/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmberMusic/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmberMusic/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AmberMusic/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmberMusic/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AmberMusic/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmberMusic/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/AmberMusic/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicDatabase.sqbpro" beforeDir="false" afterPath="$PROJECT_DIR$/musicDatabase.sqbpro" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,24 +27,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "sqlite"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
     ],
-    "rider.external.source.directories": [
-      "/Users/amberrenthal/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache",
-      "/Users/amberrenthal/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache",
-      "/Users/amberrenthal/.local/share/Symbols/src"
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/amberrenthal/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/amberrenthal/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache&quot;,
+      &quot;/Users/amberrenthal/.local/share/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="AmberMusic" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -62,7 +74,8 @@
       <option name="presentableId" value="Default" />
       <updated>1701798360356</updated>
       <workItem from="1701798361821" duration="305000" />
-      <workItem from="1702485854593" duration="1549000" />
+      <workItem from="1702485854593" duration="2150000" />
+      <workItem from="1704374806213" duration="1142000" />
     </task>
     <servers />
   </component>
